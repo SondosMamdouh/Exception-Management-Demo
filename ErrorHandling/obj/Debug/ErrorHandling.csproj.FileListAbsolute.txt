@@ -1,0 +1,6 @@
+D:\CDP\Error Handling\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.csproj.CoreCompileInputs.cache
+D:\CDP\Error Handling\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.exe.config
+D:\CDP\Error Handling\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.exe
+D:\CDP\Error Handling\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.pdb
+D:\CDP\Error Handling\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.exe
+D:\CDP\Error Handling\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.pdb
